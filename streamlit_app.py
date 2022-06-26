@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title ("Mt parent own a new healthy diner")
+streamlit.title ("My parent own a New Healthy Diner")
